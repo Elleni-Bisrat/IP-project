@@ -1,4 +1,3 @@
-// JavaScript for loginpage.html
 
 if (document.querySelector('#login-form')) {
     const loginForm = document.querySelector('#login-form');
@@ -16,7 +15,6 @@ if (document.querySelector('#login-form')) {
     });
 }
 
-// JavaScript for signup.html
 if (document.querySelector('#signup-form')) {
     const signupForm = document.querySelector('#signup-form');
     signupForm.addEventListener('submit', function(event) {
