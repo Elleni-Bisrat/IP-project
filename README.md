@@ -1,9 +1,8 @@
 # GROUP4_IPII_PROJECT
 
-## Group Members:
+## GROUP MEMBERS:
 
-Name                            id                      username(Github)
+| Name                  | ID             | GitHub Username |
+|-----------------------|----------------|------------------|
 
-1.Elsa Alemayehu              ( ets0440/15   )              (Elsa2116)  
-2.
-3.
+| Elsa Alemayehu        |  ETS0440/15    |   Elsa2116
