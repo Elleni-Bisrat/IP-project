@@ -2,8 +2,8 @@
 
 ## Group Members:
 
-Name                                                                                            id                                                                                 username(Github)
+Name                            id                      username(Github)
 
-1.Elsa Alemayehu               ets0440/15                 Elsa2116  
+1.Elsa Alemayehu              ( ets0440/15   )              (Elsa2116)  
 2.
-3,
+3.
